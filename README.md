@@ -1,78 +1,36 @@
 # SoufianoDev — Software Developer & Open Source Contributor
 
 ## About Me
-I’m a dedicated and self-driven software developer focused on solving practical problems with clean, maintainable code. I enjoy working on open source tools, automation scripts, and utilities that serve other developers and everyday users alike.
+I’m a dedicated and self‑driven software developer focused on solving practical problems with clean, maintainable code. I enjoy building open source tools, automation scripts, and developer utilities that help others work more efficiently.
 
 ---
 
 ## 📊 GitHub Stats
-
-### GitHub Profile Overview
-![SoufianoDev GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoufianoDev&show_icons=true&theme=tokyonight&hide_border=true)
-
-### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianoDev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=SoufianoDev&theme=tokyonight" height="500" widh = "300" />
+</p>
 
 ---
 
-## Skills & Technologies
 
-### Core Languages
-- JavaScript (ES6+)
-- Shell / Bash scripting
-- Python
-- C
 
-### Web & Front-End
-- HTML5
-- CSS3
+## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/message-square.svg" width="20" height="20"> Connect With Me
 
-### Dev Tools & Environments
-- Git & GitHub
-- Linux automation
-- npm
+<p align="left">
+<a href="https://github.com/SoufianoDev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-### Additional Tools
-- GitHub Actions
-- Browser extension dev
+<a href="mailto:contact.devsoufiano@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
 
 ---
 
-## Featured Projects
-
-### Toast‑JS
-A lightweight JavaScript Toast notification utility with easy integration and customization.  
-**GitHub:** https://github.com/SoufianoDev/Toast-JS
-
-### Linux SoundFixer
-Shell script that automates modern audio setup on Linux VMs, fixes PulseAudio issues and installs PipeWire.  
-**GitHub:** https://github.com/SoufianoDev/Linux_SoundFixer
-
-### KeyboardTester
-Cross-platform keyboard testing tool written in C.  
-**GitHub:** https://github.com/SoufianoDev/KeyboardTester
-
-### yt‑audio‑downloader
-Python script for extracting audio from YouTube.  
-**GitHub:** https://github.com/SoufianoDev/yt-audio-downloader
+<p align="center">
+  <b><a href="https://github.com/SoufianoDev?tab=repositories">📂 View All Repositories</a></b>
+</p>
 
 ---
 
-## Contributions
-I actively contribute to open source projects, focusing on quality improvements, tooling, and educational examples. My contributions span personal repositories as well as collaborations with community projects.
-
----
-
-## Connect With Me
-- GitHub: https://github.com/SoufianoDev
-- Email: (add your professional email here)
-- LinkedIn: (add your LinkedIn profile URL)
-- Portfolio: (add your personal portfolio or site if available)
-
----
-
-## Roadmap & Future Plans
-I’m currently expanding my expertise in modern web application frameworks, full-stack development, and developer tooling. My goals include:
-- Creating advanced utility libraries and command-line tools
-- Publishing technical tutorials and guides
-- Designing and launching a personal developer portfolio website
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
