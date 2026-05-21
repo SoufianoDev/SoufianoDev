@@ -1,7 +1,7 @@
 <h1 align="center">SoufianoDev</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Developer GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" height="360" alt="Developer GIF" />
 </p>
 
 <p align="center">
