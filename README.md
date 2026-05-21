@@ -76,7 +76,7 @@ Tools over theory. Systems over scripts.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianoDev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=SoufianoDev&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
 ---
