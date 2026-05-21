@@ -68,14 +68,14 @@ Tools over theory. Systems over scripts.
 ## GitHub Stats
 
 <div align="center">
-  <table border="0" cellpadding="15" cellspacing="0" width="100%">
+  <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
-      <td width="50%" valign="top" align="center"><br/>
-        <img src="https://ghstats.dev/api/card?username=SoufianoDev&theme=tokyonight" width="100%" style="max-width: 500px;" />
+      <td width="50%" valign="top" align="center">
+        <img src="https://ghstats.dev/api/card?username=SoufianoDev&theme=tokyonight" width="100%" style="max-width: 550px;" />
       </td>
-      <td width="50%" valign="top" align="center"><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 400px;" /><br/><br/>
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=SoufianoDev&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 400px;" />
+      <td width="50%" valign="top" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=SoufianoDev&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
