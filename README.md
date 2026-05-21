@@ -70,7 +70,8 @@ Tools over theory. Systems over scripts.
 <div align="center">
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
-      <td width="50%" valign="top" align="center" style="padding-top: 60px;">
+      <td width="50%" valign="top" align="center">
+        <br/><br/><br/>
         <img src="https://ghstats.dev/api/card?username=SoufianoDev&theme=tokyonight" width="100%" style="max-width: 550px;" />
       </td>
       <td width="50%" valign="top" align="center">
