@@ -72,11 +72,11 @@ Tools over theory. Systems over scripts.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoufianoDev&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&size_weight=0.5&count_weight=0.5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/GitHub Stats Badges?username=SoufianoDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
