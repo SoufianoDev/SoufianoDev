@@ -1,7 +1,7 @@
 <h1 align="center">SoufianoDev</h1>
 
 <p align="center">
-  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="420" <a alt="Developer GIF" />
+  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="460" <a alt="Developer GIF" />
 </p>
 
 <p align="center">
