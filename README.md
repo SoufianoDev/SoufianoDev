@@ -99,7 +99,7 @@ Tools over theory. Systems over scripts.
     <img src="./assets/github_btn.svg" />
   </a>
   &nbsp;
-  <a href="mail.google.com/mail/?view=cm&fs=1&to=contact.devsoufiano@gmail.com" >
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.devsoufiano@gmail.com" >
     <img src= "./assets/gmail_btn.svg" />
   </a>
 </p>
