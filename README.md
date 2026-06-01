@@ -1,12 +1,12 @@
 <h1 align="center">SoufianoDev</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90%" height="360" alt="Developer GIF" />
+  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="470" <a alt="Developer GIF" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Developer-0F766E?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Software%20Developer-7D36FB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -96,16 +96,16 @@ Tools over theory. Systems over scripts.
 
 <p align="center">
   <a href="https://github.com/SoufianoDev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="./assets/github_btn.svg" />
   </a>
   &nbsp;
-  <a href="mailto:contact.devsoufiano@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mail.google.com/mail/?view=cm&fs=1&to=contact.devsoufiano@gmail.com" >
+    <img src= "./assets/gmail_btn.svg" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer"  />
 </p>
