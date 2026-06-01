@@ -13,9 +13,11 @@
 
 ## About
 
-Self-driven developer focused on building practical tools, Android/Desktop Apps  developer utilities , automation systems.  
-Clean architecture, strict formatting, and systems that scale without manual intervention.  
-Tools over theory. Systems over scripts.
+Self-driven developer building practical software that solves real problems. I work across Android apps, desktop applications, web systems, and developer tools with a focus on usability, performance, and simplicity.
+
+I also build and contribute to open-source projects that are useful to the developer community, including web tools and libraries designed to improve productivity and reduce repetitive work.
+
+I care more about how something works in practice than how complex it looks on paper, focusing on clean structure, minimal design, and systems that stay out of the way.
 
 ---
 
@@ -58,7 +60,9 @@ Tools over theory. Systems over scripts.
 
 - Android Applications
 - Desktop Apps
-- Linux, Windows and MacOs tooling and system-level scripts
+- Web Applications (useful community tools, frontend systems, and utility-based projects)
+- Open-source web libraries for developers
+- Linux, Windows and MacOS tooling and system-level scripts
 - Developer Productivity Tools
 - Lightweight, maintainable CLI Applications
 
