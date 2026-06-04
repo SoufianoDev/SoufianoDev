@@ -75,11 +75,11 @@ I care more about how something works in practice than how complex it looks on p
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
       <td width="50%" valign="middle" align="center">
-        <img src="https://ghstats.dev/api/card?username=SoufianoDev&theme=tokyonight" width="100%" style="max-width: 550px;" />
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=SoufianoDev&theme=shadow&hide_border=true&layout=compact&count_private=true" width="100%" style="max-width: 550px;" />
       </td>
       <td width="50%" valign="top" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=SoufianoDev&theme=shadow&hide_border=true&layout=compact&count_private=true" alt="Top Languages" width="100%" style="max-width: 450px;" />
+        <img src="https://readme-stats-github.pages.dev/api?username=SoufianoDev&theme=shadow" alt="Top Languages" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
@@ -99,10 +99,6 @@ I care more about how something works in practice than how complex it looks on p
 ## Connect
 
 <p align="center">
-  <a href="https://github.com/SoufianoDev">
-    <img src="./assets/github_btn.svg" />
-  </a>
-  &nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contact.devsoufiano@gmail.com" >
     <img src= "./assets/gmail_btn.svg" />
   </a>
