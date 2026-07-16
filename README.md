@@ -79,7 +79,7 @@ I care more about how something works in practice than how complex it looks on p
       </td>
       <td width="50%" valign="top" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
-        <img src="https://gh-profile-stats.netlify.app/api/langs?username=SoufianoDev&theme=tokyonight" alt="Top Languages" width="100%" style="max-width: 450px;" />
+        <img src="https://gh-profile-stats.netlify.app/api/langs?username=SoufianoDev&theme=tokyonight&layout=grid" alt="Top Languages" width="100%" style="max-width: 450px;" />
       </td>
     </tr>
   </table>
