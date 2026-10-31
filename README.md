@@ -1,7 +1,7 @@
 <h1 align="center">SoufianoDev</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/oxUPNy2pGMAAAAAC/john-smith-the-eminence-in-shadow.gif"  width="90%" height="360" <a alt="Developer GIF" />
+  <img src="./assets/john-smith.gif"  width="90%" height="360" <a alt="Developer GIF" />
 </p>
 
 <p align="center">
