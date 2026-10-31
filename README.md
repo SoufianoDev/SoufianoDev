@@ -1,7 +1,7 @@
 <h1 align="center">SoufianoDev</h1>
 
 <p align="center">
-  <img src="https://tenor.com/view/shadow-i-am-atomic-alpha-delta-beta-gif-4365789754648143084.gif"  width="90%" height="360" <a alt="Developer GIF" />
+  <img src="https://tenor.com/view/john-smith-the-eminence-in-shadow-shadow-cid-kageno-cid-kagenou-gif-11751315532356851904"  width="90%" height="360" <a alt="Developer GIF" />
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ I care more about how something works in practice than how complex it looks on p
   <table border="0" cellpadding="20" cellspacing="0" width="100%">
     <tr> 
       <td width="50%" valign="middle" align="center">
-        <img src="https://gh-profile-stats.netlify.app/api/card?username=SoufianoDev&theme=tokyonight"  width="100%" style="max-width: 550px;" />
+        <img src=""  width="100%" style="max-width: 550px;" />
       </td>
       <td width="50%" valign="top" align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianoDev&theme=tokyonight&hide_border=true" alt="Streak Stats" width="100%" style="max-width: 450px;" /><br/><br/>
